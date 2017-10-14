@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/footer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/near_white">
+
+    <LinearLayout
+        android:id="@+id/footer_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="54dp"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true">
+        <com.yulong.android.gamecenter.ui.MyProgessBar
+            android:id="@+id/load_progress_bar"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="center_vertical"
+            android:visibility="gone"
+            android:layout_centerInParent="true"
+            android:contentDescription="loading"/>
+        <TextView
+            android:id="@+id/text_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:gravity="center"
+            android:text="@string/up_to_refresh"
+            android:textColor="@color/footer_pro_color"
+            android:textSize="14.0dp"/>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_blank"
+        android:layout_below="@id/footer_toast"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="54dp" />
+</RelativeLayout>

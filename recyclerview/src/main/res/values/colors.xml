@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_color">#FFFCFCFC</color>
+    <color name="normal_tabwidget_bg">@color/title_color</color>
+    
+    <color name="home_tab_bg">#00FFFFFF</color>
+
+    <color name="status_bar_color">#ffffff</color>
+    <color name="text_color">#FFacacac</color>
+    <color name="default_icon_dark">#FFdadada</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tab_background">#F6FFFFFF</color>
+    <color name="search_title_background">#E0FFFFFF</color>
+    <color name="near_white">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="darker_gray">#FFAAAAAA</color>
+    <color name="red">#FFFF0000</color>
+
+    <color name="main_tab_text_normal_color">#757575</color>
+    <color name="main_tab_text_selected_color">#f86421</color>
+    
+    <color name="home_tab_divider">#FFD1D1D1</color>
+    
+    <color name="exception_text_color">#FF808080</color>
+    <color name="item_detail_page_title">#0668A0</color>
+    <color name="google_red">#d62d20</color>
+    <color name="google_blue">#0057e7</color>
+    <color name="google_green">#008744</color>
+    <color name="google_yellow">#ffa700</color>
+    <color name="tab_indicator_text_selected">#FFFFFFFF</color>
+    <color name="tab_indicator_text_unselected">#B2FFFFFF</color>
+    <color name="sub_tab_indicator_text_unselected">#4c4c4c</color>
+    <color name="tab_indicator_textview_background">#00cc99</color>
+    <color name="divider_color">#d3d3d3</color>
+    <color name="title_bar_color">#e66228</color>
+    <color name="title_bar_color_unlogn">#80E3C9</color>
+    <color name="downloadbtn_small_install_textcolor">#f88400</color>
+    <color name="downloadbtn_small_normal_textcolor">#017bff</color>
+    <color name="sign_in_view_background">#35e2b7</color>
+    <color name="manage_font_color">#e94a30</color>
+    <color name="apkinstalled">#C9C9C9</color>
+    <color name="apkuninstalled">#FF7F00</color>
+    <color name="rank_number_color">#ed1c2c</color>
+    <color name="account_icon_edge">#94E6D8</color>
+    <color name="download_small_text_color">#888888</color>
+
+    <color name="download_small_text_pause_color">#017bff</color>
+
+    <color name="splash_skip_text_color">#4c4c4c</color>
+
+    <color name="cp_black87">#dd000000</color>
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="color_d9d9d9">#d9d9d9</color>
+    <color name="color_f88400">#f88400</color>
+
+    <color name="color_f9fafa">#FFF9FAFA</color>
+
+    <color name="hj_title_text_color">#ffff</color>
+    <color name="hj_white">#ffffff</color>
+    <color name="hj_error_button_back_color">#efefef</color>
+    <color name="hj_error_button_back_text_color">#b3b3b3</color>
+    <color name="black_95">#f2000000</color>
+    <color name="black_12">#1e000000</color>
+    <color name="black_17">#2c000000</color>
+    <color name="black_40">#6c000000</color>
+    <color name="black_50">#88000000</color>
+    <color name="black_54">#8a000000</color>
+    <color name="black_72">#b8000000</color>
+    <color name="black_80">#cc000000</color>
+    <color name="black_84">#d7000000</color>
+    <color name="color_9a9a9a">#9a9a9a</color>
+    <color name="color_f98d2e">#f98d2e</color>
+    <color name="color_918c92">#918c92</color>
+    <!--宽分割线的色值-->
+    <color name="color_sep">#FFF9FAFA</color>
+    <color name="color_f7fbfb">#f7fbfb</color>
+    <color name="color_d3">#d3d3d3</color>
+    <color name="color_80">#808080</color>
+    <color name="color_90">#909090</color>
+    <color name="color_f1f3f3">#f1f3f3</color>
+    <color name="color_70">#707070</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="color_fb6241">#fb6241</color>
+    <color name="color_f7fcfe">#f7fcfe</color>
+    <color name="color_c5c5c5">#c5c5c5</color>
+
+    <color name="state_bar_color">#28000000</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="color_777777">#777777</color>
+    <color name="color_017bff">#017bff</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_ed1c2c">#ed1c2c</color>
+    <color name="color_f86410">#f86410</color>
+    <color name="color_f89000">#f89000</color>
+    <color name="color_ebebeb">#ebebeb</color>
+    <color name="footer_pro_color">#777777</color>
+    <color name="color_969696">#969696</color>
+</resources>
